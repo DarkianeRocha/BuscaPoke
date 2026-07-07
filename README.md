@@ -6,6 +6,8 @@ Aplicação web que consome dados em tempo real da [PokeAPI](https://pokeapi.co)
 
 * **Página publicada:** https://darkianerocha.github.io/BuscaPoke/
 * **Repositório:** https://github.com/Darkiane22/BuscaPoke.git
+
+  ##Documentação
 * **ChekList** https://docs.google.com/document/d/1G5Hq3iev76s0xYMLNUjQ1Joer3o-A0Y9woEIksirdmE/edit?usp=sharing
 
 ## Funcionalidades
@@ -59,6 +61,6 @@ Aplicação web que consome dados em tempo real da [PokeAPI](https://pokeapi.co)
 * **Endpoint de busca:** `https://pokeapi.co/api/v2/pokemon/{nome}`
 * **Documentação:** https://pokeapi.co/docs/v2
 
-## Descrição
+## Finalidade
 
 Projeto desenvolvido para fins acadêmicos, com o objetivo de demonstrar conhecimentos em HTML5, JavaScript, Tailwind CSS, CSS Grid, Flexbox, consumo de APIs com Fetch e versionamento utilizando Git e GitHub.
